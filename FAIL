@@ -1,0 +1,29 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Типовой сайт</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+  <body  background="images/mainfon.gif">
+     
+ 
+<div id="header"><h1>Лабораторная работа №2: Ветвление в Git</h1>
+</div>
+<div id="leftmenu">НАВИГАЦИЯ</div>
+
+<div id="content">
+<h2>Задание на лабораторную работу</h2><br>
+<h3>Подготовить каркас веб-страницы при помощи популярных фреймворков 
+быстрой разработки в условиях командной разработки с использованием 
+системы контроля версий Git.</h3></div>
+
+<div id="footer">
+<b>Сазонова Анастасия Владимировна</b><br>
+Папикян Артур Вахтангович<br>
+Жадаев Евгений Александрович<br>
+Хаяров Динар Мустафович<br>
+
+</div>
+
+</body>
+</html>
